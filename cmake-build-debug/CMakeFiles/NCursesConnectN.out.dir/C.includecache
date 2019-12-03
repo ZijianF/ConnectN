@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/truma/Desktop/Old-program-works/ConnectN/cursewindow.h
+ncurses.h
+-
+gamemaker.h
+/cygdrive/c/Users/truma/Desktop/Old-program-works/ConnectN/gamemaker.h
+
+/cygdrive/c/Users/truma/Desktop/Old-program-works/ConnectN/gamemaker.h
+stdio.h
+-
+
+/cygdrive/c/Users/truma/Desktop/Old-program-works/ConnectN/main.c
+stdio.h
+-
+ncurses.h
+-
+gamemaker.h
+/cygdrive/c/Users/truma/Desktop/Old-program-works/ConnectN/gamemaker.h
+cursewindow.h
+/cygdrive/c/Users/truma/Desktop/Old-program-works/ConnectN/cursewindow.h
+move.h
+/cygdrive/c/Users/truma/Desktop/Old-program-works/ConnectN/move.h
+stdbool.h
+-
+wincondition.h
+/cygdrive/c/Users/truma/Desktop/Old-program-works/ConnectN/wincondition.h
+
+/cygdrive/c/Users/truma/Desktop/Old-program-works/ConnectN/move.h
+ncurses.h
+-
+
+/cygdrive/c/Users/truma/Desktop/Old-program-works/ConnectN/wincondition.h
+stdbool.h
+-
+stdio.h
+-
+gamemaker.h
+/cygdrive/c/Users/truma/Desktop/Old-program-works/ConnectN/gamemaker.h
+

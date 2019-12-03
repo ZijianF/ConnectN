@@ -1,0 +1,3 @@
+/cygdrive/c/Users/truma/Desktop/Old-program-works/ConnectN/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/truma/Desktop/Old-program-works/ConnectN/cmake-build-debug/CMakeFiles/NCursesConnectN.out.dir
+/cygdrive/c/Users/truma/Desktop/Old-program-works/ConnectN/cmake-build-debug/CMakeFiles/edit_cache.dir
